@@ -1,0 +1,28 @@
+[.c-slide--lights.backgrounds]
+= Vous avez dit impression 3D?
+
+[.c-image--plain]
+[%step]
+image::images/prusai3.jpg[]
+
+[NOTE.speaker]
+====
+* Plusieurs technologies courantes
+* Nous allons parler d'imprimante à dépot de matière fondue (fmd) => plastique
+* Structure immobile sur laquelle une tête d'impression se déplace, dépose du filament sur un plateau, par couches successives
+* Ce sont toutes ces couches accumulées qui vont donner forme à notre objet
+* Le plastique se trouve sous forme d'une bobine qui vient alimenter la tête d'impression
+====
+
+
+[.c-slide--elephant-o.backgrounds]
+== *Le plastique, c'est* pas *fantastique*
+
+//[%step]
+//* Au delà des figurines...
+
+[NOTE.speaker]
+====
+* On parle d'impresson de matière plastique, avec tout ce que ça implique : pétrole, déchets, santé
+* On souhaite Aller au delà des figurines (Pokémon) qui prendront la poussière sur une étagère
+====

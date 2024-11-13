@@ -1,0 +1,127 @@
+div.backgrounds .c-slide--lights-elephant-crane {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-left.png"),
+        url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%, 100% 100%;
+        background-size: contain, contain;
+    }
+
+    @media (width >= 1024px) {
+        background-image: url("../images/background/lights-left.png"),
+        url("../images/background/crane.png"),
+        url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%, 0 100%, 100% 100%;
+        background-size: contain, auto 70%, contain;
+    }
+
+
+    @media (width > 1200px) {
+        background-image: url("../images/background/lights-left.png"),
+        url("../images/background/elephant.png"),
+        url("../images/background/crane.png"),
+        url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%, 100% 100%, 0 100%, 100% 100%;
+        background-size: contain, contain, auto 70%, contain;
+    }
+}
+
+div.backgrounds .c-slide--lights {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-left.png"),
+        url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%, 100% 100%;
+        background-size: contain, contain;
+    }
+}
+
+div.backgrounds .c-slide--lights-left {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-left.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%;
+        background-size: contain;
+    }
+}
+
+div.backgrounds .c-slide--elephant {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 100% 100%;
+        background-size: contain;
+    }
+
+    @media (width >= 1024px) {
+        background-image: url("../images/background/elephant.png"),
+        url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 100% 100%, 100% 100%;
+        background-size: contain, contain;
+    }
+}
+
+div.backgrounds .c-slide--elephant-o {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-right.png");
+        background-repeat: no-repeat;
+        background-position: 100% 100%;
+        background-size: contain;
+    }
+
+    @media (width >= 1024px) {
+        background-image: url("../images/background/elephant.png"),
+        url("../images/background/o-right.png");
+        background-repeat: no-repeat;
+        background-position: 100% 100%, 100% 100%;
+        background-size: contain, contain;
+    }
+}
+
+div.backgrounds .c-slide--crane-bottom {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-left.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%;
+        background-size: contain;
+    }
+
+    @media (width >= 1024px) {
+        background-image: url("../images/background/crane.png"),
+        url("../images/background/o-bottom.png");
+        background-repeat: no-repeat;
+        background-position: 5% 100%, 0 100%;
+        background-size: 45% auto, 35% auto
+    }
+
+    @media (width >= 1300px) {
+        background-position: 5% 100%, 0 100%;
+        background-size: auto 70%, 45% auto
+    }
+}
+
+div.backgrounds .c-slide--crane-left {
+    @media (width >= 768px) {
+        background-image: url("../images/background/lights-left.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%;
+        background-size: contain;
+    }
+
+    @media (width >= 1024px) {
+        background-image: url("../images/background/crane.png"),
+        url("../images/background/o-left.png");
+        background-repeat: no-repeat;
+        background-position: 0 100%, 0 100%;
+        background-size: auto 55%, auto 75%;
+
+
+        @media (width >= 1300px) {
+            background-position: 0 100%, 0 100%;
+            background-size: auto 70%, contain;
+        }
+    }
+}

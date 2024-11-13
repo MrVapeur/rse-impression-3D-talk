@@ -1,0 +1,16 @@
+[.c-slide--lights.backgrounds]
+= Citation
+
+[.c-slide--crane-bottom.backgrounds]
+[%notitle]
+== Avec la grue
+
+[quote, Nom de la réference]
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam.
+
+[%notitle]
+== Sans rien
+
+[quote.c-quote--huge, Nom de la réference]
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam.
+

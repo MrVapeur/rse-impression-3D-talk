@@ -1,0 +1,6 @@
+= Titre 1
+
+[.c-slide--lights.backgrounds]
+== Titre 2
+
+Lorem ipsum dolor

@@ -1,0 +1,68 @@
+= Code
+
+== Code seulement
+
+[source, typescript]
+----
+const hello = 'Bonjour'
+
+type TeamType = 'DAE' | 'DSI' | 'SLT';
+
+type PersonTeam = {
+  name: string;
+  team: TeamType;
+}
+
+const sayHelloTo = (name: string) => {
+  return `${hello} ${name} !`
+}
+
+const assignment = (person: string, team: TeamType): PersonTeam => ({
+  name: person,
+  team
+})
+
+/**
+* Commentaire de la méthode main.
+*/
+function main() {
+    const teamList: string[] = ['Jean', 'Michel', 'Jeanne', 'Micheline', 'Truc'];
+
+    teamList.forEach((person) => console.log(sayHelloTo(person)))
+
+    console.log(teamList.map(person => assignment(person, 'SLT')).join(', '));
+}
+----
+
+== Code et texte
+
+[%step]
+* Pour dire bonjour, on commence par :
++
+[source, typescript]
+----
+const hello = 'Bonjour'
+
+const sayHelloTo = (name: string) => {
+  return `${hello} ${name} !`
+}
+----
+
+* puis on ajoute
++
+[source, typescript]
+----
+function main() {
+  console.log(sayHelloTo('Michel'));
+}
+----
+
+* et enfin
++
+[source, html]
+----
+<script>
+    main();
+</script>
+----
+

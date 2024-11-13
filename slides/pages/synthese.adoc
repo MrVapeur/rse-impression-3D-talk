@@ -1,0 +1,30 @@
+[.c-slide--lights.backgrounds]
+= En synthèse
+
+[.c-slide--lights.backgrounds]
+== Matériaux : le bon, la brute et le truand
+
+[NOTE.speaker]
+====
+* Tous les matériaux ne sont pas bons ou mauvais, des compromis sont à faire selon les usages
+====
+
+[.c-slide--lights.backgrounds]
+== L'outil parfait pour les Mc Giver du quotidien
+
+[NOTE.speaker]
+====
+* Que ce soit pour la réparation ou pour répondre à des besoins spécifiques
+l'impression 3D est un outil très adapté pour celles et ceux qui souhaitent bricoler
+avec la perspective de prolonger la durée de vie de leurs appareils
+====
+
+[.c-slide--lights.backgrounds]
+== C'est frais, local, et bieau !
+
+[NOTE.speaker]
+====
+* La production d'objets localement et dans des quantités restreintes permet d'éviter le gaspillage et le transport superflu
+* Des entreprises danoises ont adopté cet outils pour réduire l'impact lié à la logistique pour du prototypage
+de produits
+====

@@ -1,0 +1,28 @@
+[.c-slide--crane-left.backgrounds]
+= Plastiques
+
+[%step]
+* Pétrochimie : ABS - TPU - PETG
+* Bioplastiques : PLA
+* Recyclage : PETG - PLA - Nylon
+
+[NOTE.speaker]
+====
+* Quasiment autant de matériaux que d'usages
+* Plusieurs sources -> on va aller du moins vertueux au plus vertueux
+** Pétrochimie : ABS, TPU, PETG
+** Bioplastiques : PLA (amidon de maïs, canne à sucre, tapioca)
+** Recyclage: PETG (bouteille) / PLA / Nylon
+* Recycler les déchets d'impression 3D : PETG / PLA  (Nylon) (attention, peut être couteux, long  et fastidieux)
+====
+
+[.c-slide--lights.backgrounds]
+== Tout n'est pas parfait
+
+[%step]
+c'est une histoire de compromis
+
+[NOTE.speaker]
+====
+Maintenant qu'on a vu ce que nous pouvions faire pour limiter l'impact lié au plastique, on va se pencher sur...
+====

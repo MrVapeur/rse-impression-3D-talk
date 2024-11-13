@@ -1,0 +1,14 @@
+[.c-slide--lights.c-slide--title.backgrounds]
+= Impression 3D : Poison et antidote de la transition écologique
+
+*Baptiste Ingoglia*
+
+[.c-image--logo-onepoint]
+image::images/onepoint.png[onepoint]
+
+[NOTE.speaker]
+====
+* On se retrouve aujourd'hui pour voir en quoi l'impression 3D est à la fois poison et antidote de la transition écologique
+* Moi c'est Baptiste Ingoglia
+* Je vais vous donner des pistes pour réduire l'impact écologique de l'impression 3D
+====

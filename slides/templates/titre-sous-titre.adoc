@@ -1,0 +1,5 @@
+[.c-slide--lights.c-slide--title.backgrounds]
+= Titre lorem ipsum
+
+[.c-text--sub-title]
+Lien Lorem ipsum dolor sit

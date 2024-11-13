@@ -1,0 +1,13 @@
+[.c-slide--lights.backgrounds]
+= Besoins spécifiques
+
+[.c-image--plain]
+[%step]
+image::images/louche.png[width=75%]
+
+[NOTE.speaker]
+====
+* Répondre à des besoins très spécifiques => pièce sur mesure
+* De nombreuses applications dans le bricolage
+* On imprime les pièces dans la quantité nécessaire, et directement à proximité de son lieu d'utilisation
+====

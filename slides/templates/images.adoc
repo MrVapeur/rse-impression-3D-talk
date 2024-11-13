@@ -1,0 +1,40 @@
+[.c-slide--lights.backgrounds]
+= Photo
+
+[.c-slide--lights.backgrounds]
+== Titre Lorem ipsum dolor sit
+
+[.c-image--plain]
+image::images/prusai3.jpg[Lien Lorem ipsum dolor sit]
+
+http://google.com[Lien lorem ipsum (Nouvel onglet), window=_blank]
+
+[%notitle]
+[.c-split-slide.c-split-slide--slant]
+== Découpage biais
+
+[.c-split-slide__title]
+Titre
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci.
+
+[.c-split-slide__image]
+image::images/empty-plain.png[Lorem ipsum]
+
+[%notitle]
+[.c-split-slide.c-split-slide--multi]
+== Images multiples
+
+[.c-split-slide__title]
+Titre
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci.
+
+http://www.google.fr[Lien Lorem ipsum dolor sit (Nouvel onglet), window=_blank]
+
+
+[.c-split-slide__image]
+image::images/empty-plain.png[Lorem ipsum]
+
+[.c-split-slide__image]
+image::images/empty-plain.png[Lorem ipsum]

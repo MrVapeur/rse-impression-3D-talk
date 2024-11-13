@@ -1,0 +1,5 @@
+.reveal .progress {
+  height: var(--progress-height);
+  background: var(--color-dark);
+  color: var(--color-secondary);
+}

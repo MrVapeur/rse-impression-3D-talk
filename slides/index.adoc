@@ -1,0 +1,35 @@
+//[.c-slide--lights-elephant-crane.backgrounds]
+//= Impression 3D - Poison et antidote de la transition écologique
+:source-highlighter: highlightjs
+:revealjs_theme: league
+:revealjs_progress: true
+:revealjs_slideNumber: true
+:revealjs_history: true
+:revealjs_controlsBackArrows: visible
+:revealjs_transition: slide
+:revealjs_backgroundTransition: fade
+:revealjs_defaultTiming: 30
+:revealjs_totalTime: 900
+:revealjs_disablelayout: true
+:revealjs_showNotes: false
+:defaultTiming: 30
+:customcss: styles.css
+:revealjs_defaultTiming: 40
+
+include::pages/grand-titre.adoc[leveloffset=+1]
+include::pages/intro.adoc[leveloffset=+1]
+include::pages/plastique.adoc[leveloffset=+1]
+include::pages/reparation.adoc[leveloffset=+1]
+include::pages/personalisation.adoc[leveloffset=+1]
+include::pages/synthese.adoc[leveloffset=+1]
+
+//include::templates/titre.adoc[leveloffset=+1]
+//include::templates/titre-sous-titre.adoc[leveloffset=+1]
+//include::templates/text.adoc[leveloffset=+1]
+//include::templates/citations.adoc[leveloffset=+1]
+//include::templates/images.adoc[leveloffset=+1]
+//include::templates/empty.adoc[leveloffset=+1]
+//include::templates/code.adoc[leveloffset=+1]
+
+[.c-slide--lights.backgrounds]
+== Merci de votre attention

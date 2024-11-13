@@ -1,0 +1,31 @@
+{
+  "name": "basics-slides",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@antora/cli": "3.1.4",
+    "@antora/site-generator": "3.1.4",
+    "@asciidoctor/reveal.js": "4.1.0",
+    "asciidoctor": "^2.2.6",
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-exec": "^5.0.0",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-load-plugins": "^2.0.8",
+    "gulp-sequence": "^1.0.0",
+    "gulp-tap": "^2.0.0",
+    "map-stream": "^0.0.7",
+    "sass": "^1.69.5",
+    "through2": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"no test\" && exit 0",
+    "pages": "./node_modules/.bin/antora --stacktrace --to-dir public/ --fetch site.yml ",
+    "build": "gulp default",
+    "serve": "gulp serve",
+    "build-diagrams": "gulp copy-and-generate-mermaid-png",
+    "lint": "echo \"no lint\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}

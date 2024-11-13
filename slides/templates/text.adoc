@@ -1,0 +1,40 @@
+[.c-slide--lights.backgrounds]
+= Titre + texte
+
+[.c-slide--elephant-o.backgrounds]
+== Titre Lorem ipsum dolor
+
+[.c-category]
+Catégorie
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci. Elementum purus proin.
+
+[.c-slide--elephant.backgrounds]
+== Titre Lorem ipsum dolor sit amet consectetur
+
+[.c-category]
+Catégorie
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci.Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie.
+
+[.c-slide--crane-left.backgrounds]
+== Titre Lorem ipsum dolor sit amet consectetur psum dolor sit amet
+
+[.c-category]
+Catégorie
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci.Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie.
+
+[.c-slide--crane-bottom.backgrounds]
+== Titre Lorem ipsum dolor sit amet consectetur psum dolor sit amet
+
+[.c-category]
+Catégorie
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci.Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie.
+
+[.c-slide--lights.backgrounds]
+== Titre Lorem ipsum dolor sit amet  Elementum purus proin vel pellentesque orci sem
+
+Lorem ipsum dolor sit amet consectetur. Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat pellentesque molestie. Nisi dapibus vitae amet consequat. Arcu in nunc semper ut a orci.Elementum purus proin vel pellentesque orci sem et habitasse aliquam. Id egestas a sagittis dolor venenatis feugiat.
+

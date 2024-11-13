@@ -1,0 +1,64 @@
+[.c-slide--elephant-o.backgrounds]
+= Réparation
+
+[%notitle]
+[.c-split-slide.c-split-slide--slant]
+== Four à micro-ondes
+
+[.c-split-slide__title]
+Four à micro-ondes
+
+[.c-split-slide__image]
+image::images/microondes.jpg[width=75%]
+
+[NOTE.speaker]
+====
+* Cas pratique :
+* la poignée de votre four micro onde vient à casser
+====
+
+[%notitle]
+[.c-split-slide.c-split-slide--slant]
+== Raccord de tube d'aspirateur ne se fixe plus
+
+[.c-split-slide__title]
+Raccord de tube d'aspirateur ne se fixe plus
+
+[.c-split-slide__image]
+image::images/aspirateur_old.png[width=20%]
+[NOTE.speaker]
+====
+* Cas pratique :
+* la poignée de votre four micro onde vient à casser
+====
+
+[.c-slide--elephant-o.backgrounds]
+== Pièce en plastique perdue
+
+[NOTE.speaker]
+====
+* Cas pratique :
+* vous avez perdu le cache des piles de votre télécommande
+====
+
+[%notitle]
+[.c-split-slide.c-split-slide--multi]
+== Solution : l'impression 3D
+
+[.c-split-slide__title]
+Solution : l'impression 3D
+
+[.c-split-slide__image]
+image::images/fusion.png[]
+
+[.c-split-slide__image]
+image::images/printables.png[]
+
+
+[NOTE.speaker]
+====
+* => Tous ces usages peuvent être addressé au travers de l'impression 3D
+* Deux possibilités :
+* Pied à coulisse, réglet métal => modélisation
+* Ou, ne pas réinventer la roue, le modèle existe déjà certainement sur les internets, parfois même proposées par le constructeur (rare).
+====
